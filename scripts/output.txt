@@ -1,0 +1,11 @@
+Original  2.920220
+inline    2.775253
+unrolling 1.838528
+-O1       0.802728
+OpenMP    0.724710
+
+
+
+
+
+
